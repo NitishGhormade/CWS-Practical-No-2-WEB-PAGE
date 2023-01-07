@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <title>Alumni Registration Form</title>
@@ -22,6 +21,7 @@ Phone NO :- <input type="number" placeholder="Enter Your Number">
 <section id="Registration">
 <fieldset>
 <legend><h2><font color="red">REGISTRATION</font></h2></legend>
+<form>
 <table border=1 cellpadding=15>
 <caption><h2>Alumni Registration Form</h2></caption>
 <tr>
@@ -29,34 +29,82 @@ Phone NO :- <input type="number" placeholder="Enter Your Number">
 <th>Phone Number</th>
 </tr>
 <tr>
-<td>NAME :- <input type="text"></td>
-<td>Phone Number :- <input type="number">
+<td>NAME :- <input type="text" placeholder="Tony Stark"></td>
+<td>Phone Number :- <input type="number" placeholder="9999999999">
 </tr>
 <tr>
-<td colspan=2><b>Email :- <input type="text"></b></td>
+<td colspan=2><b>Email :- <input type="text" placeholder="XYZ@gmail.com"></b></td>
 </tr>
 <tr>
 <td colspan=2><b>Enter Your Address :- </b><br><br>
-<textarea placeholder="Enter Your Address"></textarea></td>
+<textarea placeholder="XYZ State, XYZ City, XYZ Area, XYZ Colony"></textarea></td>
 </tr>
 <tr>
-<td colspan=2><b>Pin Code :-  </b><input type="number"></td>
+<td colspan=2><b>Pin Code :-  </b><input type="number" placeholder="444444"></td>
 </tr>
-
-
-
-
-
-
-
-
-
-
-
+<tr>
+<td>In Which Year You joinde RCOEM College :- <input type="date"></td>
+<td>In Which Year You Graduated From RCOEM College :- <input type="date"></td>
+</tr>
+<tr>
+<td colspan=2>Enter What Your Branch Was :- <input type="text" placeholder="Computer Science"></td>
+</tr>
+</form>
 </table>
 </fieldset>
-
 </section>
+<br><br><br><br><br><br><br><br><br><br><br>
+<table border=1 cellspacing=5 cellpadding=15>
+<tr>
+<th>Sr No.</th>
+<th>Name</th>
+<th>Branch</th>
+<th>College Entering Year</th>
+<th>Passing Year</th>
+<th>Current Orgainzation</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+</table>
 
 </body>
 </html>
