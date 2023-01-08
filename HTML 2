@@ -49,8 +49,10 @@ Phone NO :- <input type="number" placeholder="Enter Your Number">
 <tr>
 <td colspan=2>Enter What Your Branch Was :- <input type="text" placeholder="Computer Science"></td>
 </tr>
-</form>
 </table>
+<input type="reset"><br><br>
+<input type="submit">
+</form>
 </fieldset>
 </section>
 <br><br><br><br><br><br><br><br><br><br><br>
