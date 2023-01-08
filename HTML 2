@@ -51,12 +51,12 @@ Phone NO :- <input type="number" placeholder="Enter Your Number">
 </tr>
 </table>
 <input type="reset"><br><br>
-<input type="submit">
+<input type="submit"> 
 </form>
 </fieldset>
 </section>
 <br><br><br><br><br><br><br><br><br><br><br>
-<table border=1 cellspacing=5 cellpadding=15>
+<table border=1 cellspacing=5 cellpadding=15 align="center">
 <tr>
 <th>Sr No.</th>
 <th>Name</th>
